@@ -12,12 +12,20 @@
 </p>
 
 <p align="center">
-  <a href="https://www.veryreport.com/">官网</a> ·
-  <a href="https://www.veryreport.com/price">价格</a> ·
-  <a href="https://www.veryreport.com/docs">帮助文档</a> ·
-  <a href="https://www.veryreport.com/community">产品社区</a> ·
-  <a href="https://www.veryreport.com/register">免费试用</a> ·
-  <a href="https://www.veryreport.com/contact">联系我们</a>
+  <a href="https://www.veryreport.com/?utm_source=github&utm_medium=readme&utm_campaign=developer_hub">官网</a> ·
+  <a href="https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub">价格</a> ·
+  <a href="https://www.veryreport.com/docs?utm_source=github&utm_medium=readme&utm_campaign=developer_hub">帮助文档</a> ·
+  <a href="https://www.veryreport.com/community?utm_source=github&utm_medium=readme&utm_campaign=developer_hub">产品社区</a> ·
+  <a href="https://www.veryreport.com/register?utm_source=github&utm_medium=readme&utm_campaign=developer_hub">免费试用</a> ·
+  <a href="https://www.veryreport.com/contact?utm_source=github&utm_medium=readme&utm_campaign=developer_hub">联系我们</a>
+</p>
+
+<p align="center">
+  <strong>Developer Hub</strong> ·
+  <a href="./docs/README.md">Docs</a> ·
+  <a href="./docs/link-utm.md">UTM 规范</a> ·
+  <a href="./docs/discussions-duty.md">Discussions 值班</a> ·
+  <a href="./.github/REPO_SETTINGS.md">仓库设置</a>
 </p>
 
 <p align="center">
@@ -32,7 +40,7 @@
 > **重要说明**  
 > VeryReport 是**商业软件**，由中创微（上海）软件有限公司研发与销售。  
 > **本仓库仅用于产品宣传与信息展示，不包含产品源码，也不提供开源许可证。**  
-> 如需试用、采购或私有化部署，请访问 [官网](https://www.veryreport.com/) 或联系 [sales@veryreport.com](mailto:sales@veryreport.com)。
+> 如需试用、采购或私有化部署，请访问 [官网](https://www.veryreport.com/?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) 或联系 [sales@veryreport.com](mailto:sales@veryreport.com)。
 
 ---
 
@@ -251,4 +259,4 @@ A：不接受产品源码贡献。文档勘误或宣传素材建议可通过官�
 
 **VeryReport（非常报表）** —— 报表工具与 BI 数据分析软件  
 
-[官网](https://www.veryreport.com/) · [文档](https://www.veryreport.com/docs) · [社区](https://www.veryreport.com/community) · [价格](https://www.veryreport.com/price) · [试用](https://www.veryreport.com/register)
+[官网](https://www.veryreport.com/?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) · [文档](https://www.veryreport.com/docs?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) · [社区](https://www.veryreport.com/community?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) · [价格](https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) · [试用](https://www.veryreport.com/register?utm_source=github&utm_medium=readme&utm_campaign=developer_hub)

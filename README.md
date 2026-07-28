@@ -12,12 +12,20 @@
 </p>
 
 <p align="center">
-  <a href="https://www.veryreport.com/">Website</a> ·
-  <a href="https://www.veryreport.com/price">Pricing</a> ·
-  <a href="https://www.veryreport.com/docs">Docs</a> ·
-  <a href="https://www.veryreport.com/community">Community</a> ·
-  <a href="https://www.veryreport.com/register">Free trial</a> ·
-  <a href="https://www.veryreport.com/contact">Contact</a>
+  <a href="https://www.veryreport.com/?utm_source=github&utm_medium=readme&utm_campaign=developer_hub">Website</a> ·
+  <a href="https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub">Pricing</a> ·
+  <a href="https://www.veryreport.com/docs?utm_source=github&utm_medium=readme&utm_campaign=developer_hub">Docs</a> ·
+  <a href="https://www.veryreport.com/community?utm_source=github&utm_medium=readme&utm_campaign=developer_hub">Community</a> ·
+  <a href="https://www.veryreport.com/register?utm_source=github&utm_medium=readme&utm_campaign=developer_hub">Free trial</a> ·
+  <a href="https://www.veryreport.com/contact?utm_source=github&utm_medium=readme&utm_campaign=developer_hub">Contact</a>
+</p>
+
+<p align="center">
+  <strong>Developer Hub</strong> ·
+  <a href="./docs/README.md">Hub docs</a> ·
+  <a href="./docs/link-utm.md">UTM rules</a> ·
+  <a href="./docs/discussions-duty.md">Discussions duty</a> ·
+  <a href="./.github/REPO_SETTINGS.md">Repo settings</a>
 </p>
 
 <p align="center">
@@ -32,7 +40,7 @@
 > **Important**  
 > VeryReport is **commercial software**, developed and sold by Zhongchuangwei (Shanghai) Software Co., Ltd. (中创微（上海）软件有限公司).  
 > **This repository is for product promotion only. It does not contain product source code and does not provide an open-source license.**  
-> For trial, purchase, or on-premises deployment, visit the [website](https://www.veryreport.com/) or email [sales@veryreport.com](mailto:sales@veryreport.com).
+> For trial, purchase, or on-premises deployment, visit the [website](https://www.veryreport.com/?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) or email [sales@veryreport.com](mailto:sales@veryreport.com).
 
 ---
 
@@ -251,4 +259,4 @@ If you like the product, try it on the website—or Star this repo to follow upd
 
 **VeryReport** — Reporting & BI analytics software  
 
-[Website](https://www.veryreport.com/) · [Docs](https://www.veryreport.com/docs) · [Community](https://www.veryreport.com/community) · [Pricing](https://www.veryreport.com/price) · [Trial](https://www.veryreport.com/register)
+[Website](https://www.veryreport.com/?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) · [Docs](https://www.veryreport.com/docs?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) · [Community](https://www.veryreport.com/community?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) · [Pricing](https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) · [Trial](https://www.veryreport.com/register?utm_source=github&utm_medium=readme&utm_campaign=developer_hub)

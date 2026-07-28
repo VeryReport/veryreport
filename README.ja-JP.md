@@ -12,12 +12,20 @@
 </p>
 
 <p align="center">
-  <a href="https://www.veryreport.com/">公式サイト</a> ·
-  <a href="https://www.veryreport.com/price">価格</a> ·
-  <a href="https://www.veryreport.com/docs">ヘルプ</a> ·
-  <a href="https://www.veryreport.com/community">コミュニティ</a> ·
-  <a href="https://www.veryreport.com/register">無料トライアル</a> ·
-  <a href="https://www.veryreport.com/contact">お問い合わせ</a>
+  <a href="https://www.veryreport.com/?utm_source=github&utm_medium=readme&utm_campaign=developer_hub">公式サイト</a> ·
+  <a href="https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub">価格</a> ·
+  <a href="https://www.veryreport.com/docs?utm_source=github&utm_medium=readme&utm_campaign=developer_hub">ヘルプ</a> ·
+  <a href="https://www.veryreport.com/community?utm_source=github&utm_medium=readme&utm_campaign=developer_hub">コミュニティ</a> ·
+  <a href="https://www.veryreport.com/register?utm_source=github&utm_medium=readme&utm_campaign=developer_hub">無料トライアル</a> ·
+  <a href="https://www.veryreport.com/contact?utm_source=github&utm_medium=readme&utm_campaign=developer_hub">お問い合わせ</a>
+</p>
+
+<p align="center">
+  <strong>Developer Hub</strong> ·
+  <a href="./docs/README.md">Docs</a> ·
+  <a href="./docs/link-utm.md">UTM</a> ·
+  <a href="./docs/discussions-duty.md">Discussions</a> ·
+  <a href="./.github/REPO_SETTINGS.md">設定</a>
 </p>
 
 <p align="center">
@@ -32,7 +40,7 @@
 > **重要**  
 > VeryReport は**商用ソフトウェア**です。中創微（上海）軟件有限公司（中创微（上海）软件有限公司）が開発・販売しています。  
 > **本リポジトリは製品プロモーション専用です。製品ソースコードは含まれず、オープンソースライセンスも提供しません。**  
-> トライアル・購入・オンプレミス導入は [公式サイト](https://www.veryreport.com/) または [sales@veryreport.com](mailto:sales@veryreport.com) まで。
+> トライアル・購入・オンプレミス導入は [公式サイト](https://www.veryreport.com/?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) または [sales@veryreport.com](mailto:sales@veryreport.com) まで。
 
 ---
 
@@ -251,4 +259,4 @@ A: 製品ソースの貢献は受け付けません。README の誤記や宣伝�
 
 **VeryReport（非常报表）** —— レポート＆BI 分析ソフトウェア  
 
-[公式サイト](https://www.veryreport.com/) · [ヘルプ](https://www.veryreport.com/docs) · [コミュニティ](https://www.veryreport.com/community) · [価格](https://www.veryreport.com/price) · [トライアル](https://www.veryreport.com/register)
+[公式サイト](https://www.veryreport.com/?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) · [ヘルプ](https://www.veryreport.com/docs?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) · [コミュニティ](https://www.veryreport.com/community?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) · [価格](https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) · [トライアル](https://www.veryreport.com/register?utm_source=github&utm_medium=readme&utm_campaign=developer_hub)
