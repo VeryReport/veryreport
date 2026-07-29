@@ -1,0 +1,26 @@
+{
+  "id": "postgresql-bi-report",
+  "title": {
+    "zh": "PostgreSQL → VeryReport BI / 复杂报表",
+    "en": "Connect PostgreSQL to VeryReport for BI & complex reports"
+  },
+  "datasource": "postgresql",
+  "product_modules": ["datasource", "dataset", "bi", "complex-report"],
+  "keywords": [
+    "PostgreSQL",
+    "Postgres",
+    "BI",
+    "dashboard",
+    "复杂报表",
+    "数据集",
+    "VeryReport"
+  ],
+  "screenshot": "https://www.veryreport.com/images/product/bi-dashboard-built.png",
+  "cta": {
+    "trial": "https://www.veryreport.com/register?utm_source=github&utm_medium=example&utm_campaign=developer_hub&utm_content=postgresql",
+    "docs": "https://www.veryreport.com/docs?utm_source=github&utm_medium=example&utm_campaign=developer_hub&utm_content=postgresql",
+    "product_bi": "https://www.veryreport.com/product/bi?utm_source=github&utm_medium=example&utm_campaign=developer_hub&utm_content=postgresql"
+  },
+  "files": ["README.md", "sample_orders.sql", "meta.json"],
+  "updated": "2026-07-29"
+}

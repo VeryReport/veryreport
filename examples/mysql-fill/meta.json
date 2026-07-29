@@ -1,0 +1,25 @@
+{
+  "id": "mysql-fill-writeback",
+  "title": {
+    "zh": "MySQL 格子填报写回",
+    "en": "MySQL cell fill / write-back via complex reports"
+  },
+  "datasource": "mysql",
+  "product_modules": ["complex-report", "fill"],
+  "keywords": [
+    "填报",
+    "格子填报",
+    "写回",
+    "MySQL",
+    "预算",
+    "write-back",
+    "VeryReport"
+  ],
+  "screenshot": "https://www.veryreport.com/images/product/form-designer-panel.png",
+  "cta": {
+    "trial": "https://www.veryreport.com/register?utm_source=github&utm_medium=example&utm_campaign=developer_hub&utm_content=mysql_fill",
+    "docs": "https://www.veryreport.com/docs/operating-instructions/data-analysis/report/fill-app/fill-overview?utm_source=github&utm_medium=example&utm_campaign=developer_hub&utm_content=mysql_fill"
+  },
+  "files": ["README.md", "sample_budget.sql", "meta.json"],
+  "updated": "2026-07-29"
+}
