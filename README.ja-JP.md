@@ -25,7 +25,10 @@
   <a href="./FAQ.md">FAQ</a> ·
   <a href="./examples/README.md">Examples</a> ·
   <a href="./ai/README.md">AI</a> ·
-  <a href="./templates/README.md">Templates</a>
+  <a href="./templates/README.md">Templates</a> ·
+  <a href="./ROADMAP.md">Roadmap</a> ·
+  <a href="./RELEASES.md">Releases</a> ·
+  <a href="./DISCUSSIONS.md">Discussions</a>
 </p>
 
 <p align="center">

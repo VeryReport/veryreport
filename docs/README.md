@@ -17,6 +17,8 @@ https://www.veryreport.com/docs?utm_source=github&utm_medium=docs&utm_campaign=d
 | [外链与 UTM 规范](./link-utm.md) | CTA 参数约定 | ✅ |
 | [Discussions 值班](./discussions-duty.md) | 周答机制 | ✅ |
 | [仓库设置清单](../.github/REPO_SETTINGS.md) | About / Topics / Discussions | ✅ |
+| [Wiki 说明](./wiki.md) | 以仓内 md 为准，避免双源 | ✅ |
+| [../RELEASES.md](../RELEASES.md) · [../ROADMAP.md](../ROADMAP.md) · [../DISCUSSIONS.md](../DISCUSSIONS.md) | Phase 8 机制 | ✅ |
 
 ## 相关入口
 
