@@ -28,3 +28,6 @@
 
 ### 商标与 NOTICE 是什么？
 见根目录 [`NOTICE`](../NOTICE)：宣传材料版权声明，**不是**开源许可证。
+
+### Discussions / Issue 提问会被回复吗？
+仓库启用 Discussions 后按周值班回复（见 `docs/discussions-duty.md`）；优质问答会回写 FAQ。产品缺陷请走商务/社区渠道。
