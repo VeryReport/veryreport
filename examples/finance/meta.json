@@ -1,0 +1,17 @@
+{
+  "id": "finance-budget-actual",
+  "title": {
+    "zh": "财务预算与执行",
+    "en": "Budget fill + budget vs actual"
+  },
+  "domain": "finance",
+  "datasource": "mysql",
+  "product_modules": ["fill", "complex-report", "bi"],
+  "keywords": ["预算填报", "budget vs actual", "财务分析", "成本中心", "VeryReport"],
+  "screenshot": "https://www.veryreport.com/images/product/form-designer-panel.png",
+  "cta": {
+    "trial": "https://www.veryreport.com/register?utm_source=github&utm_medium=example&utm_campaign=developer_hub&utm_content=finance"
+  },
+  "files": ["README.md", "sample_finance.sql", "meta.json"],
+  "updated": "2026-07-29"
+}

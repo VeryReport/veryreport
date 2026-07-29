@@ -1,0 +1,17 @@
+{
+  "id": "sales-ops",
+  "title": {
+    "zh": "销售经营分析",
+    "en": "Sales performance reports & BI"
+  },
+  "domain": "sales",
+  "datasource": "mysql",
+  "product_modules": ["dataset", "complex-report", "bi", "screen"],
+  "keywords": ["销售报表", "sales dashboard", "区域销售", "达成率", "VeryReport"],
+  "screenshot": "https://www.veryreport.com/images/product/bi-dashboard-built.png",
+  "cta": {
+    "trial": "https://www.veryreport.com/register?utm_source=github&utm_medium=example&utm_campaign=developer_hub&utm_content=sales"
+  },
+  "files": ["README.md", "sample_sales_ops.sql", "meta.json"],
+  "updated": "2026-07-29"
+}

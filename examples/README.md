@@ -5,6 +5,8 @@
 
 ## 已发布
 
+### 数据源
+
 | Example | 场景 | 关键词向 |
 |---------|------|----------|
 | [**mysql/**](./mysql/README.md) | MySQL → 复杂报表 | MySQL 报表、交叉表 |
@@ -13,12 +15,19 @@
 | [**oracle/**](./oracle/README.md) | Oracle → 报表 / BI | how to connect Oracle |
 | [**clickhouse/**](./clickhouse/README.md) | ClickHouse 下推分析 | ClickHouse BI |
 
+### 行业
+
+| Example | 场景 | 关键词向 |
+|---------|------|----------|
+| [**sales/**](./sales/README.md) | 销售经营报表 + BI | 销售报表、sales dashboard |
+| [**finance/**](./finance/README.md) | 预算填报 + 预算 vs 实际 | budget vs actual、财务分析 |
+
 ## 规划
 
 ```text
 examples/
-  mysql/ postgresql/ oracle/ clickhouse/ mysql-fill/   ✅
-  sales/ finance/ …   ⏳ 行业向
+  数据源 + sales/ finance/     ✅
+  inventory/ erp/ crm/ …      ⏳
 ```
 
 每个 Example：`README.md` + SQL + 截图 URL + CTA（`utm_medium=example`）+ 可选 `meta.json`。

@@ -26,7 +26,7 @@
 
 | 项 | 说明 | 状态 |
 |----|------|------|
-| Examples 行业向 | sales / finance 等场景包 | 计划中 |
+| Examples 行业向 | sales / finance 已发；inventory 等计划中 | 进行中 |
 | FAQ 周更 | 排错与行业题继续加 | 进行中 |
 | Templates 与市场对齐 | 有上架包则回写准确名称与链接 | 进行中 |
 | What’s New | 有实质对外信息再发 Release 说明 | 见 [`RELEASES.md`](./RELEASES.md) |
