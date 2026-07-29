@@ -93,7 +93,7 @@ Pages: [Report](https://www.veryreport.com/product/report?utm_source=github&utm_
 | Cell corrections / budgets | Report fill write-back or form workflows |
 | Data prep | ETL into shared datasets for reports & BI |
 | NL analytics | Vera ask & dashboard draft |
-| SaaS → on-premises | Trial first, then private deploy (from ¥10,000) |
+| SaaS → on-premises | Trial first, then private deploy (see pricing) |
 
 **Not a fit:** personal CSV-only work; treating this repo as an OSS engine; replacing your warehouse compute engine.
 
@@ -153,9 +153,9 @@ Compare: [https://www.veryreport.com/compare?utm_source=github&utm_medium=readme
 
 | Option | Notes |
 |---|---|
-| SaaS | ~¥999/user/year (see live pricing) · [https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
+| SaaS | See live pricing on the website · [https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
 | Trial | ~30 days · [https://www.veryreport.com/register?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/register?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
-| On-premises | From ¥10,000 by concurrency · [https://www.veryreport.com/contact?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/contact?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
+| On-premises | On-premises licensing (see pricing / contact) · [https://www.veryreport.com/contact?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/contact?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
 
 Same feature set on SaaS and on-premises. **Not open source.**
 
@@ -178,7 +178,7 @@ Full list: [`FAQ.md`](./FAQ.md).
 |---|---|
 | Community | [https://www.veryreport.com/community?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/community?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
 | Sales | sales@veryreport.com |
-| Phone | 021-64311015 · Mobile 13671686940 |
+| Phone | 021-64311015 |
 
 <p align="center">
   <img src="https://www.veryreport.com/images/weCom.png" alt="WeCom QR" width="180" />

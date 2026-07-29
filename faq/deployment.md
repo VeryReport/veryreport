@@ -3,7 +3,7 @@
 > 返回 [FAQ 索引](./README.md) · 详述见 [`docs/deployment.md`](../docs/deployment.md)
 
 ### 可以私有化、数据不出域吗？
-可以。私有化 **¥10,000 起**（按并发）。见 [定价](https://www.veryreport.com/price?utm_source=github&utm_medium=faq&utm_campaign=developer_hub)。
+可以。私有化授权（按并发，以定价页为准）。见 [定价](https://www.veryreport.com/price?utm_source=github&utm_medium=faq&utm_campaign=developer_hub)。
 
 ### SaaS 和私有化功能一样吗？
 产品原则为功能一致。以官网定价与合同为准。
@@ -12,7 +12,7 @@
 约 **30 天全功能**：[https://www.veryreport.com/register?utm_source=github&utm_medium=faq&utm_campaign=developer_hub](https://www.veryreport.com/register?utm_source=github&utm_medium=faq&utm_campaign=developer_hub)
 
 ### SaaS 年费大概多少？
-官网标价约 **¥999/人/年**（以实时定价页为准）：[https://www.veryreport.com/price?utm_source=github&utm_medium=faq&utm_campaign=developer_hub](https://www.veryreport.com/price?utm_source=github&utm_medium=faq&utm_campaign=developer_hub)
+SaaS 订阅价以实时定价页为准：[https://www.veryreport.com/price?utm_source=github&utm_medium=faq&utm_campaign=developer_hub](https://www.veryreport.com/price?utm_source=github&utm_medium=faq&utm_campaign=developer_hub)
 
 ### 有公开 Docker 镜像 / Helm Chart 吗？
 本公开仓**不提供**可自行 `docker pull` 的官方说明。安装包由交付提供。

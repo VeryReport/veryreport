@@ -103,7 +103,7 @@
 | 格子订正 / 预算填报 | 复杂报表填报写库；或表单任务审批 |
 | 数据准备 | ETL 清洗后供报表与 BI 同源使用 |
 | 自然语言问数 | Vera 问数与搭建仪表板初稿 |
-| SaaS 验证 → 私有化 | 先试用，再内网部署（¥10,000 起） |
+| SaaS 验证 → 私有化 | 先试用，再内网部署（见定价页） |
 
 **不太适合：** 个人玩 CSV；把本仓当开源引擎；把 VeryReport 当数仓计算引擎。
 
@@ -169,9 +169,9 @@
 
 | 形态 | 说明 |
 |---|---|
-| SaaS | 约 ¥999/人/年（以官网实时价为准）· [https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
+| SaaS | 以官网实时定价为准· [https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
 | 试用 | 约 30 天 · [https://www.veryreport.com/register?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/register?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
-| 私有化 | ¥10,000 起，按并发 · [https://www.veryreport.com/contact?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/contact?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
+| 私有化 | 私有化授权按并发，详见定价/联系 · [https://www.veryreport.com/contact?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/contact?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
 
 SaaS 与私有化**功能一致**。本仓不是开源软件。
 
@@ -195,7 +195,7 @@ SaaS 与私有化**功能一致**。本仓不是开源软件。
 | 产品社区 | [https://www.veryreport.com/community?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/community?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
 | Discussions | 仓库 Discussions（开启后） |
 | 商务 | sales@veryreport.com |
-| 座机 / 手机 | 021-64311015 · 13671686940 |
+| 座机 / 手机 | 021-64311015 |
 
 <p align="center">
   <img src="https://www.veryreport.com/images/weCom.png" alt="企业微信二维码" width="180" />

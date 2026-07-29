@@ -14,7 +14,7 @@
 | [Chat BI / 自然语言问数](./chat-bi.md) | AI BI、Chat BI、NLQ、智能问数 |
 | [语义层、权限与审计](./semantic-layer-permissions.md) | semantic layer、row-level security、AI 审计 |
 | [模型接入（私有化 / 本地）](./models.md) | DeepSeek、Qwen、本地大模型、OpenAI 兼容 |
-| [MCP / Tool Calling 边界](./mcp-tool-calling.md) | Chat BI MCP（说明**无**公开规格） |
+| [MCP / Tool Calling 边界](./mcp-tool-calling.md) | 说明本仓**无**公开 MCP/SDK 规格 |
 
 ## 已支持
 

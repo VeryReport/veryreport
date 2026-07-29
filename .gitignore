@@ -1,3 +1,6 @@
 .idea/
 .DS_Store
 *.iml
+
+# Internal planning / ops — not for public Developer Hub
+prd/

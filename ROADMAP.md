@@ -1,7 +1,7 @@
 # Roadmap（Developer Hub）
 
 > **一句话定义：** 本文件跟踪 **GitHub Developer Hub** 内容与机制节奏，**不是**产品研发排期的完整替代。  
-> **边界：** 产品功能以官网与商务沟通为准；Hub 发布**不要求**与产品版本号一一对应（PRD §14）。
+> **边界：** 产品功能以官网与商务沟通为准；Hub 发布**不要求**与产品版本号一一对应。
 
 最后更新：2026-07-29
 
@@ -30,7 +30,7 @@
 | FAQ 周更 | 排错与行业题继续加 | 进行中 |
 | Templates 与市场对齐 | 有上架包则回写准确名称与链接 | 进行中 |
 | What’s New | 有实质对外信息再发 Release 说明 | 见 [`RELEASES.md`](./RELEASES.md) |
-| Discussions 周答 | 网页开启 + 值班表填名 | 待人工 |
+| Discussions 周答 | 网页开启 + 值班（规则见 docs） | 待人工 |
 
 ---
 
@@ -38,7 +38,7 @@
 
 - 产品源码、公开 Docker pull、OpenAPI / SDK  
 - 模板二进制进 Git  
-- 用 Star/Fork 作为北极星 KPI（以试用/询盘 UTM 为准）
+- 不以本仓 Star/Fork 作为产品能力证明
 
 ---
 

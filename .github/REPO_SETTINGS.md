@@ -33,7 +33,6 @@ mysql
 oracle
 chatbi
 ai
-mcp
 bi-platform
 data-entry
 embedded-analytics
@@ -56,5 +55,5 @@ gh repo edit VeryReport/veryreport \
   --add-topic reporting --add-topic analytics --add-topic data-visualization \
   --add-topic etl --add-topic java --add-topic spring-boot --add-topic vue3 \
   --add-topic mysql --add-topic oracle --add-topic chatbi --add-topic ai \
-  --add-topic mcp --add-topic bi-platform --add-topic data-entry --add-topic embedded-analytics
+  --add-topic bi-platform --add-topic data-entry --add-topic embedded-analytics
 ```

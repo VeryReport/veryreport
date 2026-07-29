@@ -1,7 +1,7 @@
 # MCP / Tool Calling / RAG（边界说明）
 
 > **一句话定义：** 业界常用 MCP、Tool Calling、RAG 讨论 Chat BI 扩展；在 VeryReport **公开 Developer Hub** 中，这些**不**以可调用规格或 SDK 形式发布。  
-> **边界（PRD §14）：** 不公开 API Spec / SDK；下文只澄清概念与产品真实边界，避免检索到「假 docker / 假 MCP server」。
+> **边界：** 不公开 API Spec / SDK；下文只澄清概念与产品真实边界，避免检索到「假 docker / 假 MCP server」。
 
 ---
 

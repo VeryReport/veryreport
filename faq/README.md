@@ -35,4 +35,4 @@
 
 ## 联系
 
-sales@veryreport.com · 021-64311015 · 13671686940 · [https://www.veryreport.com/contact?utm_source=github&utm_medium=faq&utm_campaign=developer_hub](https://www.veryreport.com/contact?utm_source=github&utm_medium=faq&utm_campaign=developer_hub)
+sales@veryreport.com · 021-64311015 · [https://www.veryreport.com/contact?utm_source=github&utm_medium=faq&utm_campaign=developer_hub](https://www.veryreport.com/contact?utm_source=github&utm_medium=faq&utm_campaign=developer_hub)

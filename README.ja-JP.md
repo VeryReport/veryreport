@@ -77,7 +77,7 @@
 
 ## ユースケース
 
-正式レポート、経営ダッシュボード、格子訂正/予算入力、ETL、Vera 問数、SaaS 検証→オンプレミス（¥10,000〜）。
+正式レポート、経営ダッシュボード、格子訂正/予算入力、ETL、Vera 問数、SaaS 検証→オンプレミス（価格は公式サイト）。
 
 **不向き：** 個人 CSV のみ、本リポジトリを OSS エンジンとみなす、DWH 計算エンジンの代替。
 
@@ -110,7 +110,7 @@ Deploy: SaaS または オンプレミス
 
 ## 購入
 
-SaaS / 約30日トライアル / オンプレミス ¥10,000〜。機能は SaaS とオンプレで同一。**非オープンソース。**
+SaaS / 約30日トライアル / オンプレミス（公式サイトの価格に準拠）。機能は SaaS とオンプレで同一。**非オープンソース。**
 
 [https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) · [https://www.veryreport.com/contact?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/contact?utm_source=github&utm_medium=readme&utm_campaign=developer_hub)
 
@@ -118,7 +118,7 @@ SaaS / 約30日トライアル / オンプレミス ¥10,000〜。機能は SaaS
 
 ## 連絡先
 
-sales@veryreport.com · 021-64311015 · 13671686940  
+sales@veryreport.com · 021-64311015  
 
 <p align="center">
   <img src="https://www.veryreport.com/images/weCom.png" alt="WeCom" width="180" />

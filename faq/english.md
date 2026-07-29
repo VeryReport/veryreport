@@ -21,7 +21,7 @@ Dataset → self-service BI → drag fields → filters. [https://www.veryreport
 Use export from complex report preview (see official docs).
 
 ### Does private deployment keep data on-premises?
-Yes. On-premises from ¥10,000 (concurrency-based). [https://www.veryreport.com/price?utm_source=github&utm_medium=faq&utm_campaign=developer_hub](https://www.veryreport.com/price?utm_source=github&utm_medium=faq&utm_campaign=developer_hub) / [https://www.veryreport.com/contact?utm_source=github&utm_medium=faq&utm_campaign=developer_hub](https://www.veryreport.com/contact?utm_source=github&utm_medium=faq&utm_campaign=developer_hub)
+Yes. On-premises licensing is concurrency-based; see the pricing page. [https://www.veryreport.com/price?utm_source=github&utm_medium=faq&utm_campaign=developer_hub](https://www.veryreport.com/price?utm_source=github&utm_medium=faq&utm_campaign=developer_hub) / [https://www.veryreport.com/contact?utm_source=github&utm_medium=faq&utm_campaign=developer_hub](https://www.veryreport.com/contact?utm_source=github&utm_medium=faq&utm_campaign=developer_hub)
 
 ### Is there a public API or SDK?
 No public Spec/SDK. Embedding/SSO via enterprise delivery.

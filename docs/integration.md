@@ -1,7 +1,7 @@
 # Integration（集成 · 概念级）
 
 > **一句话定义：** 企业可将 VeryReport 嵌入业务系统、对接 SSO，并经数据集连接现有库与 API。  
-> **边界（§14 已拍板）：** ① **不公开** API Spec / OpenAPI / SDK ② 本页仅概念与选型 ③ 具体协议、回调、密钥由商务与交付提供。
+> **边界：** ① **不公开** API Spec / OpenAPI / SDK ② 本页仅概念与选型 ③ 具体协议、回调、密钥由商务与交付提供。
 
 相关：[`architecture.md`](./architecture.md) · [`deployment.md`](./deployment.md) · [`../FAQ.md`](../FAQ.md)
 

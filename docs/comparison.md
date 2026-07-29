@@ -21,7 +21,7 @@
 
 ## 场景对照（简化）
 
-| 场景 | VeryReport | 中国式复杂报表工具（如 FineReport 类） | 国际自助 BI（如 Power BI / Tableau 类） | 开源 BI（如 Superset / Metabase 类） |
+| 场景 | VeryReport | 中国式复杂报表工具（同类商业产品） | 国际自助 BI（云厂商 / 国际 BI 类） | 开源 BI（社区引擎类） |
 |------|------------|----------------------------------------|----------------------------------------|--------------------------------------|
 | 中国式复杂报表 / 套打 / 多级表头 | 强 | 强 | 中～弱 | 弱 |
 | 格子填报写回 / 正式报送 | 强 | 强 | 弱 | 弱 |
@@ -50,7 +50,7 @@ VeryReport：**商业**产品；本 GitHub **不是**开源引擎仓。
 - 只要云上个人/部门轻量看板、深度绑定某云生态 → 国际自助 BI  
 - 只要单一老牌填报生态且已有存量模板资产 → 评估现有中国式报表工具迁移成本  
 
-官网对照与竞品内容页：https://www.veryreport.com/compare?utm_source=github&utm_medium=docs&utm_campaign=developer_hub  
+官网对照与选型页：https://www.veryreport.com/compare?utm_source=github&utm_medium=docs&utm_campaign=developer_hub  
 
 ---
 

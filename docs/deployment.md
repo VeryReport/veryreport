@@ -17,7 +17,7 @@
 
 定价入口：https://www.veryreport.com/price?utm_source=github&utm_medium=docs&utm_campaign=developer_hub  
 
-私有化授权：**¥10,000 起**（按并发规模），以商务报价为准。
+私有化授权按并发规模，以官网定价与商务报价为准。
 
 ---
 
