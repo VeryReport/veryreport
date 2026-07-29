@@ -10,7 +10,7 @@
 
 | 文档 | 条数 | 说明 |
 |------|------|------|
-| [产品与仓库](./product-and-repo.md) | 9 | 开源边界、NOTICE、Star |
+| [产品与仓库](./product-and-repo.md) | 10 | 开源边界、NOTICE、Star |
 | [部署与购买](./deployment.md) | 12 | SaaS / 私有化 / Docker |
 | [数据源与数据集](./datasource.md) | 11 | Oracle/MySQL/PG/CH 连接 |
 | [复杂报表与 BI](./reports-and-bi.md) | 10 | 看板、导出、大屏 |
