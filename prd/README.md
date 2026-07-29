@@ -8,5 +8,6 @@
 | [进度-Phase0.md](./进度-Phase0.md) | Phase 0 实施进度与人工收尾清单 | 代码完成；网页项待办 |
 | [进度-Phase1.md](./进度-Phase1.md) | Phase 1 README / FAQ / 骨架 | 代码完成 |
 | [进度-Phase2.md](./进度-Phase2.md) | Phase 2 开发者 Docs | 代码完成 |
+| [进度-Phase3.md](./进度-Phase3.md) | Phase 3 Examples（持续） | 首篇 MySQL 已发 |
 
-仓库根目录宣传基线：三语 README + `FAQ.md` + `examples/` · `ai/` · `templates/` · `docs/`（含 Architecture 等）。
+仓库根目录宣传基线：三语 README + `FAQ.md` + `examples/`（含 mysql）· `ai/` · `templates/` · `docs/`。

@@ -1,0 +1,27 @@
+{
+  "id": "mysql-complex-report",
+  "title": {
+    "zh": "MySQL → VeryReport 复杂报表",
+    "en": "Connect MySQL to VeryReport for complex reports"
+  },
+  "datasource": "mysql",
+  "product_modules": ["datasource", "dataset", "complex-report"],
+  "keywords": [
+    "MySQL",
+    "复杂报表",
+    "中国式报表",
+    "BI",
+    "数据集",
+    "cross-tab",
+    "VeryReport",
+    "非常报表"
+  ],
+  "screenshot": "https://www.veryreport.com/images/product/report-designer-panel.png",
+  "cta": {
+    "trial": "https://www.veryreport.com/register?utm_source=github&utm_medium=example&utm_campaign=developer_hub&utm_content=mysql",
+    "docs": "https://www.veryreport.com/docs?utm_source=github&utm_medium=example&utm_campaign=developer_hub&utm_content=mysql",
+    "product": "https://www.veryreport.com/product/report?utm_source=github&utm_medium=example&utm_campaign=developer_hub&utm_content=mysql"
+  },
+  "files": ["README.md", "sample_sales.sql", "meta.json"],
+  "updated": "2026-07-29"
+}

@@ -17,6 +17,6 @@
 - 无虚构 `docker pull`  
 - 无 OpenAPI / SDK  
 
-## 下一阶段（Phase 3）
+## 下一阶段
 
-按 PRD：开始 `examples/<domain>/` 每周约 1 篇深内容（Example **或** FAQ 二选一亦可）；首批建议 MySQL / 复杂报表或填报场景。
+Phase 3 已启动，见 [进度-Phase3.md](./进度-Phase3.md)（首篇 MySQL Example）。
