@@ -27,4 +27,6 @@
 
 1. 打开 https://github.com/VeryReport/veryreport/settings → 按 `REPO_SETTINGS.md` 填 About、Topics、启用 Discussions  
 2. 填写 `docs/discussions-duty.md` 值班姓名  
-3. 推送本仓变更；部署 Galaxy 前端使页脚 / llms / sameAs 生效  
+3. 部署 Galaxy 前端使页脚 / llms / sameAs 生效（本仓推送按产品节奏，勿默认 push）  
+
+Phase 1 见 [进度-Phase1.md](./进度-Phase1.md)。

@@ -5,6 +5,7 @@
 | 文档 | 说明 | 状态 |
 |------|------|------|
 | [2026-07-28-github-developer-hub-seo-geo-plan.md](./2026-07-28-github-developer-hub-seo-geo-plan.md) | Developer Hub 执行计划（附录 A + §14 决策） | 规划 |
-| [进度-Phase0.md](./进度-Phase0.md) | Phase 0 实施进度与人工收尾清单 | 进行中 |
+| [进度-Phase0.md](./进度-Phase0.md) | Phase 0 实施进度与人工收尾清单 | 代码完成；网页项待办 |
+| [进度-Phase1.md](./进度-Phase1.md) | Phase 1 README / FAQ / 骨架 | 代码完成 |
 
-仓库根目录当前宣传基线：`README.md` · `README.zh-CN.md` · `README.ja-JP.md`。
+仓库根目录宣传基线：三语 README + `FAQ.md` + `examples/` · `ai/` · `templates/` · `docs/`。
