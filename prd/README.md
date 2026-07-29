@@ -10,7 +10,7 @@
 | [进度-Phase2.md](./进度-Phase2.md) | Phase 2 开发者 Docs | 代码完成 |
 | [进度-Phase3.md](./进度-Phase3.md) | Phase 3 Examples（持续） | mysql/pg/oracle/ch + fill |
 | [进度-Phase5.md](./进度-Phase5.md) | Phase 5 AI 专区主题页 | 首批 4 篇主题 + 索引 |
-| [进度-Phase6.md](./进度-Phase6.md) | Phase 6 FAQ 规模化 | ~99 条 |
+| [进度-Phase6.md](./进度-Phase6.md) | Phase 6 FAQ 规模化 | ~100 条 |
 | [进度-Phase7.md](./进度-Phase7.md) | Phase 7 Comparison | docs/comparison.md |
 
 仓库根目录宣传基线：三语 README + `FAQ.md` / `faq/` · `examples/` · `ai/` · `templates/` · `docs/`。
