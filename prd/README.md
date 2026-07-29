@@ -12,7 +12,7 @@
 | [运营检查清单.md](./运营检查清单.md) | Push 前 / 网页 / Galaxy / 周更 | 人工执行；默认不自动 push |
 | [进度-Phase4.md](./进度-Phase4.md) | Phase 4 Templates 说明页 | Dashboard/Report/ETL |
 | [进度-Phase5.md](./进度-Phase5.md) | Phase 5 AI 专区主题页 | 首批 4 篇主题 + 索引 |
-| [进度-Phase6.md](./进度-Phase6.md) | Phase 6 FAQ 规模化 | ~101 条 |
+| [进度-Phase6.md](./进度-Phase6.md) | Phase 6 FAQ 规模化 | ~111 条 |
 | [进度-Phase7.md](./进度-Phase7.md) | Phase 7 Comparison | docs/comparison.md |
 | [进度-Phase8.md](./进度-Phase8.md) | Phase 8 Roadmap/Releases/Discussions | 机制文档已齐；网页项待办 |
 

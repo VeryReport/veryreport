@@ -31,11 +31,14 @@
 ### Vera AI / Chat BI？
 见 [`faq/ai.md`](./faq/ai.md) · [`ai/`](./ai/README.md)
 
+### 行业 Example？
+见 [`faq/industry.md`](./faq/industry.md) · [`examples/`](./examples/README.md)
+
 ---
 
 ## 分类目录
 
-→ **[`faq/`](./faq/README.md)**（约 101 条）
+→ **[`faq/`](./faq/README.md)**（约 111 条）
 
 English: [`faq/english.md`](./faq/english.md)
 

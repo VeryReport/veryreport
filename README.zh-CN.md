@@ -208,6 +208,7 @@ SaaS 与私有化**功能一致**。本仓不是开源软件。
 | 项目 | 说明 |
 |---|---|
 | 定位 | **VeryReport Developer Hub**（开发者营销 / SEO·GEO），非源码仓 |
+| LLM 摘要 | [`llms.txt`](./llms.txt) · 贡献边界 [`CONTRIBUTING.md`](./CONTRIBUTING.md) |
 | 许可 | 宣传材料版权归中创微（上海）软件有限公司；**≠ 开源许可** · 见 [`NOTICE`](./NOTICE) |
 
 Star 表示关注，**不代表可获取源码**。

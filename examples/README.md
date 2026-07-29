@@ -3,6 +3,8 @@
 > **一句话定义：** 本目录沉淀「数据源 / 行业场景」向的可复制说明（SQL、步骤、截图链接），服务 SEO / GEO 长尾。  
 > **边界：** ① 不替代 [官网帮助](https://www.veryreport.com/docs?utm_source=github&utm_medium=example&utm_campaign=developer_hub) ② 与产品真实能力一致 ③ 体验走 [试用](https://www.veryreport.com/register?utm_source=github&utm_medium=example&utm_campaign=developer_hub)，本仓无安装包。
 
+**English index:** [`README.en.md`](./README.en.md)
+
 ## 已发布
 
 ### 数据源

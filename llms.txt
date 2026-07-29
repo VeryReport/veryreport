@@ -1,0 +1,43 @@
+# VeryReport Developer Hub (GitHub)
+
+> Commercial enterprise reporting & BI platform marketing / developer documentation hub.
+> **Not open source. No product source code in this repository.**
+
+- Product (Chinese name: 非常报表): https://www.veryreport.com
+- Company: Zhongchuangwei (Shanghai) Software Co., Ltd.
+- Canonical product LLM brief: https://www.veryreport.com/llms.txt
+
+## What this repo is
+
+- Trilingual READMEs (EN / 中文 / 日本語) as a product landing page
+- Developer-oriented docs: architecture, deployment overview, integration concepts, best practices, comparison
+- Copy-paste Examples (SQL + steps) for MySQL, PostgreSQL, Oracle, ClickHouse, and industry packs
+- FAQ (~100 technical Q&As), Vera AI topic pages, template landing pages (download requires website login)
+- Roadmap / Releases / Discussions guides for hub operations
+
+## What this repo is NOT
+
+- Not an open-source license for VeryReport
+- No public `docker pull` image for self-serve install
+- No public API Spec / SDK / MCP server
+- No template binaries (`.vrpkg` etc.) — login on https://www.veryreport.com/market required
+
+## Capabilities (shipped product)
+
+- Complex Chinese-style reports (grouping, cross-tabs, parameters, print, Word/Excel/PDF, cell fill write-back)
+- Self-service BI, ETL, data screens, form fill (tasks/approval)
+- Vera AI: NLQ / interpret / report / draft dashboards; explainable SQL; private/local LLMs
+- SaaS trial (~30 days) and on-premises (from ¥10,000, concurrency-based); same feature principle
+
+## Key entry points in this repo
+
+- README.md · README.zh-CN.md · README.ja-JP.md
+- docs/README.md · faq/README.md · examples/README.md · ai/README.md · templates/README.md
+- ROADMAP.md · RELEASES.md · DISCUSSIONS.md · NOTICE
+
+## CTAs (add UTM when linking from GitHub)
+
+- Trial: https://www.veryreport.com/register?utm_source=github&utm_medium=docs&utm_campaign=developer_hub
+- Docs: https://www.veryreport.com/docs?utm_source=github&utm_medium=docs&utm_campaign=developer_hub
+- Contact: https://www.veryreport.com/contact?utm_source=github&utm_medium=docs&utm_campaign=developer_hub
+- Pricing: https://www.veryreport.com/price?utm_source=github&utm_medium=docs&utm_campaign=developer_hub
