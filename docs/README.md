@@ -13,6 +13,7 @@ https://www.veryreport.com/docs?utm_source=github&utm_medium=docs&utm_campaign=d
 | [Deployment](./deployment.md) | SaaS vs 私有化；无公开 Docker pull | ✅ Phase 2 |
 | [Integration](./integration.md) | 嵌入 / SSO 等概念级；无 Spec/SDK | ✅ Phase 2 |
 | [Best Practices](./best-practices.md) | 数据集、下推、报表 vs BI、填报 | ✅ Phase 2 |
+| [Comparison](./comparison.md) | 客观场景对照（链到官网 /compare） | ✅ Phase 7 |
 | [外链与 UTM 规范](./link-utm.md) | CTA 参数约定 | ✅ |
 | [Discussions 值班](./discussions-duty.md) | 周答机制 | ✅ |
 | [仓库设置清单](../.github/REPO_SETTINGS.md) | About / Topics / Discussions | ✅ |

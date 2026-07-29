@@ -1,0 +1,16 @@
+{
+  "id": "clickhouse-bi",
+  "title": {
+    "zh": "ClickHouse → VeryReport 分析报表 / BI",
+    "en": "Connect ClickHouse to VeryReport (push-down analytics)"
+  },
+  "datasource": "clickhouse",
+  "product_modules": ["datasource", "dataset", "bi", "complex-report"],
+  "keywords": ["ClickHouse", "BI", "push-down", "报表", "VeryReport"],
+  "screenshot": "https://www.veryreport.com/images/product/bi-dashboard-built.png",
+  "cta": {
+    "trial": "https://www.veryreport.com/register?utm_source=github&utm_medium=example&utm_campaign=developer_hub&utm_content=clickhouse"
+  },
+  "files": ["README.md", "sample_events.sql", "meta.json"],
+  "updated": "2026-07-29"
+}

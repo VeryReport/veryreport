@@ -1,0 +1,16 @@
+{
+  "id": "oracle-report-bi",
+  "title": {
+    "zh": "Oracle → VeryReport 复杂报表 / BI",
+    "en": "Connect Oracle to VeryReport for reports & BI"
+  },
+  "datasource": "oracle",
+  "product_modules": ["datasource", "dataset", "complex-report", "bi"],
+  "keywords": ["Oracle", "复杂报表", "BI", "VeryReport", "how to connect Oracle"],
+  "screenshot": "https://www.veryreport.com/images/product/report-designer-panel.png",
+  "cta": {
+    "trial": "https://www.veryreport.com/register?utm_source=github&utm_medium=example&utm_campaign=developer_hub&utm_content=oracle"
+  },
+  "files": ["README.md", "sample_sales.sql", "meta.json"],
+  "updated": "2026-07-29"
+}

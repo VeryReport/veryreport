@@ -7,28 +7,24 @@
 
 | Example | 场景 | 关键词向 |
 |---------|------|----------|
-| [**mysql/**](./mysql/README.md) | MySQL → 数据集 → 复杂报表 | MySQL 报表、中国式交叉表 |
-| [**postgresql/**](./postgresql/README.md) | PostgreSQL → BI / 复杂报表 | Postgres BI、dashboard |
-| [**mysql-fill/**](./mysql-fill/README.md) | MySQL 格子填报写回 | 填报、write-back、预算订正 |
+| [**mysql/**](./mysql/README.md) | MySQL → 复杂报表 | MySQL 报表、交叉表 |
+| [**mysql-fill/**](./mysql-fill/README.md) | MySQL 格子填报写回 | 填报、write-back |
+| [**postgresql/**](./postgresql/README.md) | PostgreSQL → BI / 报表 | Postgres BI |
+| [**oracle/**](./oracle/README.md) | Oracle → 报表 / BI | how to connect Oracle |
+| [**clickhouse/**](./clickhouse/README.md) | ClickHouse 下推分析 | ClickHouse BI |
 
-## 规划（按周补充）
+## 规划
 
 ```text
 examples/
-  mysql/          ✅
-  postgresql/     ✅
-  mysql-fill/     ✅
-  oracle/         ⏳
-  clickhouse/     ⏳
-  sales/ finance/ …
+  mysql/ postgresql/ oracle/ clickhouse/ mysql-fill/   ✅
+  sales/ finance/ …   ⏳ 行业向
 ```
 
-每个 Example 最小包：`README.md`（中英至少摘要）+ SQL 或步骤 + 官网截图 URL + 试用 CTA（`utm_medium=example`）+ 可选 `meta.json`。
-
-节奏见 `prd/进度-Phase3.md`。
+每个 Example：`README.md` + SQL + 截图 URL + CTA（`utm_medium=example`）+ 可选 `meta.json`。
 
 ## 现在怎么体验
 
 1. [注册试用](https://www.veryreport.com/register?utm_source=github&utm_medium=example&utm_campaign=developer_hub)  
-2. 任选上表 Example 导入演示 SQL 并连接  
-3. 或用自有库，按 [帮助文档](https://www.veryreport.com/docs?utm_source=github&utm_medium=example&utm_campaign=developer_hub) 建数据集与报表  
+2. 任选上表导入演示 SQL 并连接  
+3. 或按 [帮助文档](https://www.veryreport.com/docs?utm_source=github&utm_medium=example&utm_campaign=developer_hub) 用自有库  
