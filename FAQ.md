@@ -38,7 +38,7 @@
 
 ## 分类目录
 
-→ **[`faq/`](./faq/README.md)**（约 111 条）
+→ **[`faq/`](./faq/README.md)**（约 112 条）
 
 English: [`faq/english.md`](./faq/english.md)
 

@@ -2,7 +2,7 @@
 
 > **一句话定义：** 技术向常见问题（How-to / 边界 / 选型）。操作逐步以 [官网帮助](https://www.veryreport.com/docs?utm_source=github&utm_medium=faq&utm_campaign=developer_hub) 为准。  
 > **边界：** 不开源；无公开 Docker pull / API Spec / SDK。  
-> **规模：** 当前约 **111** 条问答（目标 100+，持续增加）。
+> **规模：** 当前约 **112** 条问答（目标 100+，持续增加）。
 
 根目录 [`../FAQ.md`](../FAQ.md) 为简入口；**完整分类以本目录为准**。
 
@@ -21,7 +21,7 @@
 | [权限与安全](./security.md) | 5 | 行级权限、SSO |
 | [集成与嵌入](./integration.md) | 5 | Embed、无 SDK |
 | [排查与报错](./troubleshooting.md) | 15 | 连接、性能、填报、Vera |
-| [English](./english.md) | 12 | Technical FAQ (EN) |
+| [English](./english.md) | 13 | Technical FAQ (EN) |
 
 ## 快速链接
 

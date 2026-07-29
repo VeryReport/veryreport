@@ -37,3 +37,6 @@ Cell fill = edit cells in complex reports and write back. Form fill = tasks/appr
 
 ### Where are full UI tutorials?
 Official docs: [https://www.veryreport.com/docs?utm_source=github&utm_medium=faq&utm_campaign=developer_hub](https://www.veryreport.com/docs?utm_source=github&utm_medium=faq&utm_campaign=developer_hub). This hub is architecture / how-to oriented, not a manual mirror.
+
+### Are there industry Examples?
+Yes — sales, finance, inventory, ERP fulfillment, CRM pipeline/collections, MES yield. See [`../examples/README.en.md`](../examples/README.en.md).

@@ -192,6 +192,7 @@ Full list: [`FAQ.md`](./FAQ.md).
 |---|---|
 | Role | **VeryReport Developer Hub** (developer marketing / SEO·GEO), not a source repo |
 | Notice | Copyright promotional materials — see [`NOTICE`](./NOTICE); **not** an OSS license |
+| LLM brief | [`llms.txt`](./llms.txt) · contributing boundaries: [`CONTRIBUTING.md`](./CONTRIBUTING.md) |
 
 A Star shows interest; **it does not grant source access**.
 
