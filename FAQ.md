@@ -14,7 +14,7 @@
 不能。请 [试用](https://www.veryreport.com/register?utm_source=github&utm_medium=faq&utm_campaign=developer_hub)。
 
 ### 能私有化吗？
-能。价格见定价页。[定价](https://www.veryreport.com/price?utm_source=github&utm_medium=faq&utm_campaign=developer_hub)
+能。SaaS 首购约 ¥300/人/年；私有化见定价页。[定价](https://www.veryreport.com/price?utm_source=github&utm_medium=faq&utm_campaign=developer_hub)
 
 ### 有公开 Docker / SDK 吗？
 没有。见 [`docs/deployment.md`](./docs/deployment.md) · [`docs/integration.md`](./docs/integration.md)

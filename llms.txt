@@ -27,7 +27,7 @@
 - Complex Chinese-style reports (grouping, cross-tabs, parameters, print, Word/Excel/PDF, cell fill write-back)
 - Self-service BI, ETL, data screens, form fill (tasks/approval)
 - Vera AI: NLQ / interpret / report / draft dashboards; explainable SQL; private/local LLMs
-- SaaS trial (~30 days) and on-premises (see live pricing; concurrency-based on-premises); same feature principle
+- SaaS: first purchase about ¥300/user/year (see live /price); ~30-day trial; on-premises concurrency-based (see live pricing); same feature principle on SaaS and on-premises
 
 ## Key entry points in this repo
 

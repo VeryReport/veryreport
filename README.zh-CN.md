@@ -169,7 +169,7 @@
 
 | 形态 | 说明 |
 |---|---|
-| SaaS | 以官网实时定价为准· [https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
+| SaaS | 首购约 **¥300**/人/年（以官网实时定价为准）· [https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
 | 试用 | 约 30 天 · [https://www.veryreport.com/register?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/register?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
 | 私有化 | 私有化授权按并发，详见定价/联系 · [https://www.veryreport.com/contact?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/contact?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
 
@@ -195,7 +195,7 @@ SaaS 与私有化**功能一致**。本仓不是开源软件。
 | 产品社区 | [https://www.veryreport.com/community?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/community?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
 | Discussions | 仓库 Discussions（开启后） |
 | 商务 | sales@veryreport.com |
-| 座机 / 手机 | 021-64311015 |
+| 座机 | 021-64311015（更多渠道见官网联系页） |
 
 <p align="center">
   <img src="https://www.veryreport.com/images/weCom.png" alt="企业微信二维码" width="180" />

@@ -12,7 +12,7 @@
 约 **30 天全功能**：[https://www.veryreport.com/register?utm_source=github&utm_medium=faq&utm_campaign=developer_hub](https://www.veryreport.com/register?utm_source=github&utm_medium=faq&utm_campaign=developer_hub)
 
 ### SaaS 年费大概多少？
-SaaS 订阅价以实时定价页为准：[https://www.veryreport.com/price?utm_source=github&utm_medium=faq&utm_campaign=developer_hub](https://www.veryreport.com/price?utm_source=github&utm_medium=faq&utm_campaign=developer_hub)
+SaaS **首购**约 **¥300**/人/年（活动与档位以官网实时定价为准）：[https://www.veryreport.com/price?utm_source=github&utm_medium=faq&utm_campaign=developer_hub](https://www.veryreport.com/price?utm_source=github&utm_medium=faq&utm_campaign=developer_hub)
 
 ### 有公开 Docker 镜像 / Helm Chart 吗？
 本公开仓**不提供**可自行 `docker pull` 的官方说明。安装包由交付提供。

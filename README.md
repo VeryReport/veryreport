@@ -153,7 +153,7 @@ Compare: [https://www.veryreport.com/compare?utm_source=github&utm_medium=readme
 
 | Option | Notes |
 |---|---|
-| SaaS | See live pricing on the website · [https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
+| SaaS | First purchase **¥300**/user/year (see live pricing) · [https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
 | Trial | ~30 days · [https://www.veryreport.com/register?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/register?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
 | On-premises | On-premises licensing (see pricing / contact) · [https://www.veryreport.com/contact?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/contact?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) |
 

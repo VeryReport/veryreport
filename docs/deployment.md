@@ -23,6 +23,7 @@
 
 ## SaaS
 
+- 首购约 **¥300**/人/年（以 [定价页](https://www.veryreport.com/price?utm_source=github&utm_medium=docs&utm_campaign=developer_hub) 实时为准）。
 - 浏览器访问；注册即可开始建数据集与报表。  
 - 需保证 VeryReport 云端到你的数据源网络连通（防火墙/白名单按交付或帮助文档指引）。  
 - 适合 POC、互联网可达库、快速培训。

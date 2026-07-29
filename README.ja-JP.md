@@ -110,7 +110,7 @@ Deploy: SaaS または オンプレミス
 
 ## 購入
 
-SaaS / 約30日トライアル / オンプレミス（公式サイトの価格に準拠）。機能は SaaS とオンプレで同一。**非オープンソース。**
+SaaS 初回約 **¥300**/人/年（公式サイト準拠）/ 約30日トライアル / オンプレミス。機能は SaaS とオンプレで同一。**非オープンソース。**
 
 [https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/price?utm_source=github&utm_medium=readme&utm_campaign=developer_hub) · [https://www.veryreport.com/contact?utm_source=github&utm_medium=readme&utm_campaign=developer_hub](https://www.veryreport.com/contact?utm_source=github&utm_medium=readme&utm_campaign=developer_hub)
 
