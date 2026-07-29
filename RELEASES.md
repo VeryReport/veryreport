@@ -51,3 +51,4 @@ UTM 规范：[`docs/link-utm.md`](./docs/link-utm.md)（`utm_medium=release`）
 | 2026-07-29 | 首篇 Hub notes（上表） |
 | 2026-07-29 | 追加行业 Example：`examples/sales` · `examples/finance`；运营检查清单 |
 | 2026-07-29 | 追加行业 Example：`examples/inventory` · `examples/erp` |
+| 2026-07-29 | 追加行业 Example：`examples/crm` · `examples/mes`（行业首轮齐套） |

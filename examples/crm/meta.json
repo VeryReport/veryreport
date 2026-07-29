@@ -1,0 +1,17 @@
+{
+  "id": "crm-pipeline-collections",
+  "title": {
+    "zh": "CRM 商机与回款分析",
+    "en": "CRM pipeline & collections analytics"
+  },
+  "domain": "crm",
+  "datasource": "mysql",
+  "product_modules": ["dataset", "complex-report", "bi", "ai"],
+  "keywords": ["CRM 报表", "销售漏斗", "回款分析", "pipeline", "VeryReport"],
+  "screenshot": "https://www.veryreport.com/images/product/bi-dashboard-built.png",
+  "cta": {
+    "trial": "https://www.veryreport.com/register?utm_source=github&utm_medium=example&utm_campaign=developer_hub&utm_content=crm"
+  },
+  "files": ["README.md", "sample_crm.sql", "meta.json"],
+  "updated": "2026-07-29"
+}

@@ -14,7 +14,7 @@
 | Phase 0 | UTM、互链规范、仓库设置清单、Discussions 值班文档 |
 | Phase 1 | 三语 README 着陆页 IA、FAQ/examples/ai/templates 骨架 |
 | Phase 2 | Architecture / Deployment / Integration / Best Practices |
-| Phase 3 | Examples：MySQL / PG / Oracle / ClickHouse / 格子填报 |
+| Phase 3 | Examples：数据源 + 行业（sales/finance/inventory/erp/crm/mes） |
 | Phase 4 | Templates 说明页（Dashboard / Report / ETL，登录下载） |
 | Phase 5 | AI 主题页（Chat BI、权限、模型、MCP 边界） |
 | Phase 6 | FAQ ≥ 100 条（`faq/`） |
@@ -26,7 +26,7 @@
 
 | 项 | 说明 | 状态 |
 |----|------|------|
-| Examples 行业向 | sales / finance / inventory / erp 已发；crm/mes 计划中 | 进行中 |
+| Examples 行业向 | sales/finance/inventory/erp/crm/mes **首轮齐** | 周更加深 |
 | FAQ 周更 | 排错与行业题继续加 | 进行中 |
 | Templates 与市场对齐 | 有上架包则回写准确名称与链接 | 进行中 |
 | What’s New | 有实质对外信息再发 Release 说明 | 见 [`RELEASES.md`](./RELEASES.md) |

@@ -2,7 +2,7 @@
 
 > **一句话定义：** 技术向常见问题（How-to / 边界 / 选型）。操作逐步以 [官网帮助](https://www.veryreport.com/docs?utm_source=github&utm_medium=faq&utm_campaign=developer_hub) 为准。  
 > **边界：** 不开源；无公开 Docker pull / API Spec / SDK。  
-> **规模：** 当前约 **100** 条问答（目标 100+，持续增加）。
+> **规模：** 当前约 **101** 条问答（目标 100+，持续增加）。
 
 根目录 [`../FAQ.md`](../FAQ.md) 为简入口；**完整分类以本目录为准**。
 
@@ -12,7 +12,7 @@
 |------|------|------|
 | [产品与仓库](./product-and-repo.md) | 10 | 开源边界、NOTICE、Star |
 | [部署与购买](./deployment.md) | 12 | SaaS / 私有化 / Docker |
-| [数据源与数据集](./datasource.md) | 11 | Oracle/MySQL/PG/CH 连接 |
+| [数据源与数据集](./datasource.md) | 12 | Oracle/MySQL/PG/CH 连接 |
 | [复杂报表与 BI](./reports-and-bi.md) | 10 | 看板、导出、大屏 |
 | [填报](./fill.md) | 6 | 格子写回 vs 表单 |
 | [ETL 与调度](./etl-and-schedule.md) | 8 | 数据准备、ClickHouse/Hive |

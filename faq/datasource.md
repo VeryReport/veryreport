@@ -5,6 +5,9 @@
 ### 支持哪些常见数据库？
 常见如 MySQL、Oracle、PostgreSQL、Hive、ClickHouse、Doris 等；亦支持 Excel/CSV 与 API。完整列表以产品内配置与帮助文档为准。
 
+### 有行业场景 Example 吗？
+有。见 [`../examples/`](../examples/README.md)：销售、财务、库存、ERP 履约、CRM 漏斗回款、MES 产量良率等（演示 SQL + 步骤）。
+
 ### How to connect Oracle to VeryReport?
 1. [Trial](https://www.veryreport.com/register?utm_source=github&utm_medium=faq&utm_campaign=developer_hub) → add Oracle datasource (host, port, service/SID, user).  
 2. Create a SQL dataset.  

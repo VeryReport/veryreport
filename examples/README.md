@@ -23,14 +23,10 @@
 | [**finance/**](./finance/README.md) | 预算填报 + 预算 vs 实际 | budget vs actual |
 | [**inventory/**](./inventory/README.md) | 库存快照 + 出入库 | 库存报表、进销存 |
 | [**erp/**](./erp/README.md) | 订单履约 / 欠交 | ERP 报表、order fulfillment |
+| [**crm/**](./crm/README.md) | 商机漏斗 + 回款 | CRM 报表、pipeline |
+| [**mes/**](./mes/README.md) | 产量 + 良率 | MES 报表、yield |
 
-## 规划
-
-```text
-examples/
-  数据源 + sales/finance/inventory/erp   ✅
-  crm/ mes/ …                            ⏳
-```
+PRD 规划目录（mysql/oracle/…/sales/erp/crm/mes/finance/inventory）**首轮已齐**；后续以加深与周更为主。
 
 每个 Example：`README.md` + SQL + 截图 URL + CTA（`utm_medium=example`）+ 可选 `meta.json`。
 

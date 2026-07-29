@@ -8,11 +8,11 @@
 | [进度-Phase0.md](./进度-Phase0.md) | Phase 0 实施进度与人工收尾清单 | 代码完成；网页项待办 |
 | [进度-Phase1.md](./进度-Phase1.md) | Phase 1 README / FAQ / 骨架 | 代码完成 |
 | [进度-Phase2.md](./进度-Phase2.md) | Phase 2 开发者 Docs | 代码完成 |
-| [进度-Phase3.md](./进度-Phase3.md) | Phase 3 Examples（持续） | 数据源 + sales/finance/inventory/erp |
+| [进度-Phase3.md](./进度-Phase3.md) | Phase 3 Examples（持续） | 数据源 + 6 个行业包首轮齐 |
 | [运营检查清单.md](./运营检查清单.md) | Push 前 / 网页 / Galaxy / 周更 | 人工执行；默认不自动 push |
 | [进度-Phase4.md](./进度-Phase4.md) | Phase 4 Templates 说明页 | Dashboard/Report/ETL |
 | [进度-Phase5.md](./进度-Phase5.md) | Phase 5 AI 专区主题页 | 首批 4 篇主题 + 索引 |
-| [进度-Phase6.md](./进度-Phase6.md) | Phase 6 FAQ 规模化 | ~100 条 |
+| [进度-Phase6.md](./进度-Phase6.md) | Phase 6 FAQ 规模化 | ~101 条 |
 | [进度-Phase7.md](./进度-Phase7.md) | Phase 7 Comparison | docs/comparison.md |
 | [进度-Phase8.md](./进度-Phase8.md) | Phase 8 Roadmap/Releases/Discussions | 机制文档已齐；网页项待办 |
 
