@@ -25,6 +25,6 @@
 2. Galaxy 页脚 / llms / sameAs 需部署才生效  
 3. **不自动 push**（按产品要求本地提交即可）
 
-## 下一阶段（Phase 2）
+## 下一阶段
 
-按 PRD：`docs/Architecture` · Deployment · Integration（概念级，无 Spec/SDK）· Best Practice；禁止虚构 Docker pull。
+Phase 2 已完成，见 [进度-Phase2.md](./进度-Phase2.md)。
