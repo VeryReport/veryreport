@@ -20,14 +20,16 @@
 | Example | 场景 | 关键词向 |
 |---------|------|----------|
 | [**sales/**](./sales/README.md) | 销售经营报表 + BI | 销售报表、sales dashboard |
-| [**finance/**](./finance/README.md) | 预算填报 + 预算 vs 实际 | budget vs actual、财务分析 |
+| [**finance/**](./finance/README.md) | 预算填报 + 预算 vs 实际 | budget vs actual |
+| [**inventory/**](./inventory/README.md) | 库存快照 + 出入库 | 库存报表、进销存 |
+| [**erp/**](./erp/README.md) | 订单履约 / 欠交 | ERP 报表、order fulfillment |
 
 ## 规划
 
 ```text
 examples/
-  数据源 + sales/ finance/     ✅
-  inventory/ erp/ crm/ …      ⏳
+  数据源 + sales/finance/inventory/erp   ✅
+  crm/ mes/ …                            ⏳
 ```
 
 每个 Example：`README.md` + SQL + 截图 URL + CTA（`utm_medium=example`）+ 可选 `meta.json`。
